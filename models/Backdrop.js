@@ -1,4 +1,4 @@
-const { Backdrop, APIKEY } = require("./config/server");
+const { Backdrop, APIKEY } = require("../config/server");
 const axios = require("axios");
 
 // 1 page = 20 item

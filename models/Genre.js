@@ -1,4 +1,4 @@
-const { Genre, APIKEY } = require("./config/server");
+const { Genre, APIKEY } = require("../config/server");
 const axios = require("axios");
 
 // 1 page = 20 item

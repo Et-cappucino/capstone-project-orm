@@ -1,4 +1,4 @@
-const { Cast, APIKEY } = require("./config/server");
+const { Cast, APIKEY } = require("../config/server");
 const axios = require("axios");
 
 // 1 page = 20 item
